@@ -4,3 +4,4 @@ src/main/generated-sources/
 .classpath
 .settings
 /target/
+/bin/
